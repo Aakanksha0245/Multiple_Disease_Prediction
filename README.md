@@ -1,2 +1,2 @@
-#Multiple_Disease_Prediction
+# Multiple_Disease_Prediction
 A simple Multiple Disease Prediction web app
